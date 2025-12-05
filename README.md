@@ -11,6 +11,7 @@ A Tableau project that creates meaningful visualizations to analyse of a fabrica
 **Goal:** To practice end-to-end analytics such as data cleaning, calculated fields, and dashboard design, in Tableau using an e-commerce customer support dataset. This is done through monitoring the ticket volume, response speed, and customer satisfaction across channels in Tableau.
 
 **Tools used:** Tableau, Excel
+
 **Key performance metrics:** Total Tickets, Avg Response Time (hours), Avg CSAT Score (1-5), and % of CSAT ≥ 4
 
 ---
