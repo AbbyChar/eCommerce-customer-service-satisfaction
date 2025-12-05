@@ -1,5 +1,5 @@
 # Customer Support Performance Dashboard (Tableau)
-A Tableau project that creates meaningful visualizations to analyse of an e-commerce company's (Shopzilla's) customer support performance.
+A Tableau project that creates meaningful visualizations to analyse of a fabricated e-commerce company's (Shopzilla's) customer support performance.
 
 ![Dashboard Overview](https://github.com/user-attachments/assets/47fc427a-2f1e-4544-b0a1-3825558b3f1c)
 
