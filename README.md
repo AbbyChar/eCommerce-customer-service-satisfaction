@@ -133,6 +133,7 @@ The data used in this project comes from the Kaggle dataset [**"eCommerce Custom
 - CSAT dips significantly on **29 Jul 2023**, driven largely by Outcall and Inbound
 
 **Relationship between speed and satisfaction**
+
 After filtering outliers (>48 hours),
 - The scatter plot suggests that for **Email**, longer response times are associated with noticeably lower CSAT (steep negative trend line)
 - Inbound is relatively flat but still a negative trend, also suggesting association between longer response times with lower CSAT but at a lower degree
