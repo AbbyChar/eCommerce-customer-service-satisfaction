@@ -22,7 +22,7 @@ The data used in this project comes from the Kaggle dataset [**"eCommerce Custom
 - **Time period:** July-August 2023
 - **Rows / columns:** 85907 rows by 20 columns
 - **Important fields:**
-  - `Isse reported at` - timestamp when ticket was issued
+  - `Issue reported at` - timestamp when ticket was issued
   - `Issue Responded` - timestamp when first response was sent
   - `Channel Name` - Email / Inbound / Outcall
   - `CSAT Score` - customer satisfaction level (1-5); Bad: 1-3, Good: 4-5
