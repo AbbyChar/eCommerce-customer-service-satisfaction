@@ -160,9 +160,9 @@ After filtering outliers (>48 hours),
 ## 8. How to View / Reproduce
 
 - **Tableau Public link:**  
-  `[https://public.tableau.com/...](https://public.tableau.com/app/profile/bao.jie.char/vizzes)`
+  `[Shopzilla eCommerce Customer Service Satisfaction](https://public.tableau.com/app/profile/bao.jie.char/viz/ShopzillaeCommerceCustomerServiceSatisfaction/ExecutiveOverview)`
 
 - **Files in this repo:**
-  - ["eCommerce Customer Service Satisfaction" by ddosad](https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data) – source dataset  
+  - `["eCommerce Customer Service Satisfaction" by ddosad](https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data)` – source dataset  
   - `Support_Dashboard.twbx` – Tableau packaged workbook (optional)    
   - `README.md` – this document
