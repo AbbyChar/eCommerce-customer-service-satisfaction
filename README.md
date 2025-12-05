@@ -118,7 +118,7 @@ The data used in this project comes from the Kaggle dataset [**"eCommerce Custom
 
 **Volume**
 - The support team handled **85,903 tickets** between 28 Jul 2023 and 31 Aug 2023
-- Inbound is the dominant channel, accounting for around **~79.3%** of all tickets**, followed by Outcall **(~17.2%)** and Email **(~0.04%)**
+- Inbound is the dominant channel, accounting for around **~79.3%** of all tickets, followed by Outcall **(~17.2%)** and Email **(~0.04%)**
 - Ticket volume peaks around weekdays and the end of the month, which may require higher staffing levels on those days
 
 **Speed**
