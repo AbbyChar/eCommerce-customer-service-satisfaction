@@ -164,5 +164,5 @@ After filtering outliers (>48 hours),
 
 - **Files in this repo:**
   - ["eCommerce Customer Service Satisfaction" by ddosad](https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data) – source dataset  
-  - `Support_Dashboard.twbx` – Tableau packaged workbook (optional)    
+  - `Support_Dashboard.twbx` – Tableau packaged workbook   
   - `README.md` – this document
