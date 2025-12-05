@@ -32,8 +32,8 @@ The data used in this project comes from the Kaggle dataset [**"eCommerce Custom
  ## 3. Business Questions
  
  1. **Volume**
-  - How many tickets do we receive over time?
-  - Which channels generate the most tickets?
+    - How many tickets do we receive over time?
+    - Which channels generate the most tickets?
 
 2. **Speed**
    - What is our average response time, and how does it change over time?
