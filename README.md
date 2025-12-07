@@ -112,6 +112,7 @@ The data used in this project comes from the Kaggle dataset [**"eCommerce Custom
 ### 5.5 Interactivity
 - Hover actions that show “Tickets by Channel on \<date>” or channel breakdowns in tooltips
 - Channel filters
+- Response Time filter
 
 ---
 
